@@ -3,6 +3,7 @@ Leonardo Ferreira Werder Gonçalves
 Rafaela Amaral Ferreira Da Silva
 João Victor Fernandes de Andrade 
 Guilherme Cunha Alves
+Adrian Siqueira Piedade
 Michelle Peroni
 Luana Rosa 
 Matheus Cardoso Oliveira
@@ -12,3 +13,4 @@ Willian HIdeki
 Dhiego Fernandes da Silva
 Moises Alves Silva
 Miguel Barboza Cavalcante
+Guilherme Rodrigues de Castro
